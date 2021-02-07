@@ -1,2 +1,2 @@
-# golang-soap
-how to build a soap webservice by golang
+# gosoap
+golang webservice
