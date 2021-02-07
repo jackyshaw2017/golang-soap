@@ -10,9 +10,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/afocus/gosoap/soap"
-	"github.com/afocus/gosoap/wsdl"
-	"github.com/afocus/gosoap/xsd"
+	"github.com/jackyshaw2017/golang-soap/soap"
+	"github.com/jackyshaw2017/golang-soap/wsdl"
+	"github.com/jackyshaw2017/golang-soap/xsd"
 )
 
 // Methoder 方法接口
