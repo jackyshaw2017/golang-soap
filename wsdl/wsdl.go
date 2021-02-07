@@ -3,7 +3,7 @@ package wsdl
 import (
 	"encoding/xml"
 
-	"github.com/afocus/gosoap/xsd"
+	"github.com/jackyshaw2017/golang-soap/wsdl"
 )
 
 type Definitions struct {
