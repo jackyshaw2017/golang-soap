@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/afocus/gosoap"
+	gosoap "github.com/jackyshaw2017/golang-soap"
 )
 
 // 简单的
